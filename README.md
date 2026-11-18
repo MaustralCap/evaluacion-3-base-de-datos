@@ -37,3 +37,7 @@ Se verifica con un mensaje en la consola "Servidor escuchando en el puerto 3000"
 5. Abrir la carpeta frontend, abrir index.html y dar click en Go Live para ver la página web
 
 Así es como se ejecuta de forma impecable.
+
+6. Para comprobar que el código accede a un JSON limpio y estructurado directamente
+desde la base de datos debido a INNER JOIN, ingresar al navegador con el siguiente link...
+http://localhost:3000/api/elementos
